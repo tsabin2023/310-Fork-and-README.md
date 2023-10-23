@@ -5,6 +5,7 @@ CNE310HWwithCNE330file.py solves the following problem below by determining if t
 Your router assigns even IP addresses to Windows machines, and odd IP addresses to Linux machines.
 Write a function, ip_to_operating_system that takes the last octet of an IP address (0-255) and returns “Linux” or
 “Windows” If a user enters 0, report “Router”
+Note: user input request has not been coded because it was not part of the assignment.
 
 ## Getting Started
 
@@ -13,6 +14,7 @@ These instructions will run the code on your local machine for solving the follo
 Your router assigns even IP addresses to Windows machines, and odd IP addresses to Linux machines.
 Write a function, ip_to_operating_system that takes the last octet of an IP address (0-255) and returns “Linux” or
 “Windows” If a user enters 0, report “Router”.
+Note: user input request has not been coded because it was not part of the assignment.
 
 ### Prerequisites
 
