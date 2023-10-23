@@ -16,7 +16,7 @@ Write a function, ip_to_operating_system that takes the last octet of an IP addr
 
 ### Prerequisites
 
-CNE310HWwithCNE330file.py requires Pycharm Community Edition to run. You can install Pycharm COmmunity Edition from here https://www.jetbrains.com/pycharm/
+CNE310HWwithCNE330file.py requires Pycharm Community Edition to run. You can install Pycharm Community Edition from here https://www.jetbrains.com/pycharm/
 Then download raw filr CNE310HWwithCNE330file.py from https://github.com/tsabin2023/CNE310_Tyler/blob/main/CNE310HWwithCNE330file.py
 
 ## Running
