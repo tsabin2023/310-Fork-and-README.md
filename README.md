@@ -18,7 +18,7 @@ Note: user input request has not been coded because it was not part of the assig
 
 ### Prerequisites
 
-This project requires [Python3](https://www.python.org/downloads/) and an external [python script](https://github.com/tsabin2023/CNE310_Tyler/blob/main/CNE310HWwithCNE330file.py).
+This project requires you to download the following: [Python3](https://www.python.org/downloads/) and an external [python script](https://github.com/tsabin2023/CNE310_Tyler/blob/main/CNE310HWwithCNE330file.py).
 
 ## Running
 Once installed you can run the program with the following steps:
