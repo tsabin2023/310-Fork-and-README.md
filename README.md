@@ -18,13 +18,32 @@ Note: user input request has not been coded because it was not part of the assig
 
 ### Prerequisites
 
-CNE310HWwithCNE330file.py requires Pycharm Community Edition to run. You can install Pycharm Community Edition from here https://www.jetbrains.com/pycharm/
-Then download raw filr CNE310HWwithCNE330file.py from https://github.com/tsabin2023/CNE310_Tyler/blob/main/CNE310HWwithCNE330file.py
+This project requires [Python3](https://www.python.org/downloads/) and an external [python script](https://github.com/tsabin2023/CNE310_Tyler/blob/main/CNE310HWwithCNE330file.py).
 
 ## Running
-Once installed you can run the program with the following 
+Once installed you can run the program with the following steps:
 
-Go to your downloads folder. Right click on CNE310HWwithCNE330file.py and select open with Pycharm Community Edition. In Pycharm select main menu and open file in New Project. In New Project select Current File and then select Run.  
+1. Open a terminal.
+2. Navigate to the directory where the python script is downloaded in (most likely in your Downloads directory).
+3. Assuming the script is in your Downloads directory (if not skip to #4), enter the following commands:
+```
+cd Downloads
+python CNE310HWwithCNE330file.py
+```
+
+4. After navigating to where the script is located in enter the following command: 
+```
+python CNE310HWwithCNE330file.py
+```
+
+Expected output after executing the script:
+```
+Windows
+Windows
+Linux
+Windows
+Linux
+```
 
 ## Thanks
-Thanks to Zak for the file this is Forked from and the README.md template. Thanks to Tyler for writing code and the README.md Thanks to Brian for writing the code. 
+Thanks to Zak for the file this is Forked from and the README.md template. Thanks to Tyler for writing code and the README.md Thanks to Brian for writing the code.
